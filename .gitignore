@@ -51,3 +51,4 @@ rpm-build/BUILDROOT/
 
 # IDEs
 .vscode
+.git/

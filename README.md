@@ -25,3 +25,4 @@ To run the preflight updater outside of `dom0`:
 3. Now you can run the updater: `./files/sdw-updater` (it won't actually update VMs unless you are in `dom0`)
 4. You can also run the notifier: `./files/sdw-notify`
 5. And, finally, tests and linters by running: `sudo apt install xvfb`, then `make check`
+test
