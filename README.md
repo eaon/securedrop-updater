@@ -1,3 +1,5 @@
+<code>**NOTE**: _This repository is no longer supported or updated by FPF. Relevant changes have been merged back to https://github.com/freedomofpress/securedrop-workstation - please refer to that repository for future updates, or if you wish to contribute to development._</code>
+
 # securedrop-updater
 
 The Updater ensures that the [SecureDrop Workstation](https://github.com/freedomofpress/securedrop-workstation/) is up-to-date by checking for and applying any necessary VM updates, which may prompt a reboot.
